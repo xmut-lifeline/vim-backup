@@ -1,4 +1,4 @@
-<title>vim backup</title><br>
+vim backup<br>
 ＃vim配置文件的备份
 此配置文件的vim具有一下功能：<br>
     １．新建文件可以自动添加头文件。具体内容可以自己修改。<br>
